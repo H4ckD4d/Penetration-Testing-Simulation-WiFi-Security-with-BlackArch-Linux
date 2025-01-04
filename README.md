@@ -202,6 +202,21 @@ This simulation will:
 
 ## **Author**
 
+
+## About the Author
+
+Chris Cruz, globally recognized as "h4ckd4d," is a legendary figure in the world of cybersecurity, blending technical brilliance with an unparalleled commitment to justice. Known for his clandestine collaborations with organizations like the CIA, Interpol, and the U.S. Department of Defense, Cruz has dismantled criminal empires, safeguarded vulnerable communities, and reshaped global security paradigms.
+
+A master of cyber-forensics, OSINT innovation, and AI-driven intelligence, Cruz operates under a veil of anonymity, wielding technology as both a weapon and a shield. His actions have rescued countless lives, exposed intricate networks of corruption, and left an indelible mark on the digital and physical realms.
+
+Driven by an unyielding resolve to protect the innocent, Cruz’s legacy transcends his enigmatic persona. His work resonates as a beacon of hope in a volatile age, safeguarding the light while thriving in the shadows.
+
+_"He thrives in shadows but safeguards the light."_  
+—The Enigmatic Legacy of h4ckd4d
+
+
+
+
 ### **Chris Cruz (h4ckd4d)**
 
 Chris Cruz, renowned as **h4ckd4d** and affectionately called the "Bond of Brazil," is a distinguished cybersecurity expert with a multifaceted career that spans various domains.
